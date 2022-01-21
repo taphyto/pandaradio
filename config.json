@@ -1,0 +1,7 @@
+{
+  "TOKEN": "OTExMTI3NDUxOTE5MzIzMTU2.YZc3kA.oEl1-YCM3Hwh3aUZPOGZJsQVVn4", //Token of your Bot
+  "CHANNEL": "925000619167719424", //Music Channel ID (The Channel where the Should Should Play the Music)
+  "SERVER": "838056917212987452", //Server ID (the Serever where you want to Play the Music in)
+  "STATUS": "Allu Arjun", //Status of the Bot
+  "LIVE": "https://youtu.be/2q8yURJoIyI" 
+}
